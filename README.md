@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
 
-### Social:
+## Social:
 You can find me on the following social media platforms or send me an email:
 * 👔 [LinkedIn](https://www.linkedin.com/in/matteo-ballabio-67b288182/)
 * 📷 [Instagram](https://www.instagram.com/matteoballabio1/)
