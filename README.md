@@ -8,6 +8,8 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://github-readme-stats.vercel.app/api?username=M-ballabio1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 
+hide=jupyter%20notebook
+
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
