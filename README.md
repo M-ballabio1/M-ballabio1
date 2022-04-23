@@ -1,4 +1,4 @@
-# Hi, I'm Matteo 👋
+## Hi, I'm Matteo 👋
 
 <strong>I'm a student at Bergamo University. I'm mostly interested in Python, Data Science, Machine Learning and Deep Learning.</strong>
 
