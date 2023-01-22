@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-### Social:
+#### Social:
 You can find me on the following social media platforms or send me an email:
 * 👔 [LinkedIn](https://www.linkedin.com/in/matteo-ballabio-67b288182/)
 * 📷 [Instagram](https://www.instagram.com/matteoballabio1/)
