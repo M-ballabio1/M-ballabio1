@@ -1,6 +1,6 @@
 ## Hi, I'm Matteo 👋
 
-<strong>I'm a student at Bergamo University. I'm mostly interested in Python, Data Science, Machine Learning and Deep Learning.</strong>
+<strong>I'm a student at Bergamo University. I'm mostly interested in Python, Data Science, Machine Learning and Deep Learning. I'm involved in different sectors as Finance and Energy but I love working with data from the Healthcare and Biomedical fields/strong>
 
 <!---
 M-ballabio1/M-ballabio1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
