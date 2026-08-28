@@ -20,9 +20,29 @@
 
 Biomedical engineer turned AI/ML engineer, with six years across healthcare machine learning, MLOps and cloud-native systems — enterprise consulting at **PwC** and **Capgemini**, biotech instrumentation at **Tecniplast**, and applied research at **Fondazione Bruno Kessler** and **Deep Learning Italia**, with three peer-reviewed publications on MLOps and biomedical imaging.
 
-Currently **Co-Founder & CTO at [Akaion](https://github.com/Akaion-repos)**, an AI-native orchestration platform I architected and scaled to 1,250+ users and multiple B2B clients in under a year.
+Currently **Co-Founder & CTO at [Akaion](https://github.com/akaion-ai)**, an AI-native orchestration platform I architected and scaled to 1,250+ users and multiple B2B clients in under a year. Our sovereign execution kernel, **[Annona](https://github.com/akaion-ai/annona)**, is open source.
 
 I hold an **MIT Sloan MicroMasters in AI in Healthcare** and completed **ETH Zurich**'s Machine Learning in Health programme. Based in Como, Italy — twenty minutes from the Swiss border.
+
+---
+
+### Current work — Annona
+
+<a href="https://github.com/akaion-ai/annona">
+  <img src="https://img.shields.io/badge/akaion--ai%2Fannona-The%20sovereign%20execution%20kernel%20for%20AI%20agents-1F6F68?style=for-the-badge&logo=github&logoColor=white" alt="Annona" />
+</a>
+
+[![Stars](https://img.shields.io/github/stars/akaion-ai/annona?style=flat-square&color=2bbc8a)](https://github.com/akaion-ai/annona/stargazers)
+[![License](https://img.shields.io/github/license/akaion-ai/annona?style=flat-square)](https://github.com/akaion-ai/annona/blob/main/LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/akaion-ai/annona?style=flat-square)](https://github.com/akaion-ai/annona/commits)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Where an AI workload runs is a decision — and it should be yours, enforced and recorded.**
+Annona is an execution kernel that decides where each step of an agent runs (local, on-premise, or cloud), enforces that decision with a default-deny policy engine, and writes every placement to a hash-chained audit ledger. Local by default, GDPR by design, aligned to the EU AI Act. Apache-2.0, 559 tests, Docker and `pip install annona`.
+
+It exists because regulated industries — healthcare above all — cannot send data to whichever endpoint a model happens to prefer, and cannot deploy what they cannot audit.
+
+[Read the design](https://github.com/akaion-ai/annona/blob/main/docs/design/hld.md) · [Docs](https://akaion-ai.github.io/annona/) · [Repository](https://github.com/akaion-ai/annona)
 
 ---
 
